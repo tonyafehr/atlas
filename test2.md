@@ -1,5 +1,6 @@
 This is a another test.
 **Bold text** 
+**Bold text**
 
 # Heading 1 
 ## Heading 2 
