@@ -1,2 +1,2 @@
 # atlas
-Tonya's Atlas repo for training
+Atlas repo for training
