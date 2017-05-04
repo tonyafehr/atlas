@@ -1,4 +1,4 @@
-This is test.
+This is a wonderful test.
 Change
 another new line and another change
 A new line.
